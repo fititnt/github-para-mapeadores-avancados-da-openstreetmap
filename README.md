@@ -1,5 +1,10 @@
 # github-para-mapeadores-avancados-da-openstreetmap
+![img/vida-de-suporte.png](img/banner-vida-de-suporte.png)
+
 **[RASCUNHO] Sugestões de pautas mínimas à voluntários de [suporte técnico](https://pt.wikipedia.org/wiki/Suporte_t%C3%A9cnico) para introduzir (ou atualizar) conhecimento a colegas que [já sabem muito bem como mapear no OpenStreetMap](https://www.openstreetmap.org/help) a também terem [proficiência em GitHub](https://docs.github.com/pt) para [lidar administração de organizações](https://docs.github.com/pt/organizations) e [publicação de conteúdo](https://pages.github.com/).**
+
+
+
 
 <!--
 ## Publico alvo
@@ -26,7 +31,10 @@ O público alvo deste guia são pessoas dispostas a dar suporte 1 a 1 preferenci
     1. Sugira colocar apenas o país, mas a pessoa pode colocar a cidade
 4. **(Opcional) caso tenha uma descrição curta da pessoa pronta, diga que pessoa pode informar no perfil**
     1. Como há limite de tamanho ou a pessoa pode não saber o que escrever, pode pular essa etapa.
-5. (Sugestões?)
+    2. Explique para pessoa que essa descrição pode ser usada por outros para saber quem ela é. Sugira pelo menos citar grupos ou iniciativas existentes da OpenStreetMap do país dela.
+5. **Perfil da pessoa deve ter algum link para algum site externo**; se a pessoa não tiver opinião, sugira colocar link para o perfil pessoal da OpenStreetMap
+    1. Em especial se o link colocado for do OpenStreetMap, diga para pessoa considerar no futuro editar perfil dela lá para informar o o link do GitHub que agora tem.
+6. (Sugestões?)
 
 #### 1.2. Seguir e ser seguido (simples)
 
