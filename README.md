@@ -4,13 +4,39 @@
 **[RASCUNHO] Sugestões de pautas mínimas à voluntários de [suporte técnico](https://pt.wikipedia.org/wiki/Suporte_t%C3%A9cnico) para introduzir (ou atualizar) conhecimento a colegas que [já sabem muito bem como mapear no OpenStreetMap](https://www.openstreetmap.org/help) a também terem [proficiência em GitHub](https://docs.github.com/pt) para [lidar administração de organizações](https://docs.github.com/pt/organizations) e [publicação de conteúdo](https://pages.github.com/).**
 
 
+---
 
+<!-- TOC depthfrom:2 -->
+
+- [Repositórios adicionais](#reposit%C3%B3rios-adicionais)
+    - [Exemplos de projetos](#exemplos-de-projetos)
+    - [Exemplos de automação](#exemplos-de-automa%C3%A7%C3%A3o)
+- [Pauta sugerida](#pauta-sugerida)
+    - [Introdução](#introdu%C3%A7%C3%A3o)
+        - [Conta pessoal](#conta-pessoal)
+        - [Seguir e ser seguido simples](#seguir-e-ser-seguido-simples)
+        - [Seguir outros da comunidade](#seguir-outros-da-comunidade)
+        - [Página pessoal](#p%C3%A1gina-pessoal)
+    - [Organizações](#organiza%C3%A7%C3%B5es)
+    - [Automação](#automa%C3%A7%C3%A3o)
+
+<!-- /TOC -->
+
+---
 
 <!--
 ## Publico alvo
 
 O público alvo deste guia são pessoas dispostas a dar suporte 1 a 1 preferencialmente por videoconferência em seções curtas para ajudar com o ecossistema do GitHub para pessoas que já tenham proficiência com OpenStreetMap.
 -->
+
+## Repositórios adicionais
+
+### Exemplos de projetos
+- https://github.com/fititnt/openstreetmap-exemplo-minimo-mapa-cidade
+
+### Exemplos de automação
+- https://github.com/fititnt/openstreetmap-github-actions
 
 ## Pauta sugerida
 
@@ -62,12 +88,19 @@ O público alvo deste guia são pessoas dispostas a dar suporte 1 a 1 preferenci
 
 ### Organizações
 
+1. Crie uma organização com nome `teste-organizacao-000` onde `000` deve ser alterado
+   1. Se <https://github.com/teste-organizacao-001> existir: crie <https://github.com/teste-organizacao-002>
+   2. Se <https://github.com/teste-organizacao-002> existir: crie <https://github.com/teste-organizacao-003>
+   3. E assim por diante. Apenas pegue um número livre
 > (...)
 
 ### Automação
 
-> (...)
+> Nota: esta etapa varia conforme o interesse do aluno.
+> Pode usar <https://github.com/fititnt/openstreetmap-github-actions> como referência de qual action escolher.
 
+
+---
 
 # Texto original
 
