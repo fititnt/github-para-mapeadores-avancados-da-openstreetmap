@@ -9,8 +9,6 @@
 <!-- TOC depthfrom:2 -->
 
 - [Repositórios adicionais](#reposit%C3%B3rios-adicionais)
-    - [Exemplos de projetos](#exemplos-de-projetos)
-    - [Exemplos de automação](#exemplos-de-automa%C3%A7%C3%A3o)
 - [Pauta sugerida](#pauta-sugerida)
     - [Introdução](#introdu%C3%A7%C3%A3o)
         - [Conta pessoal](#conta-pessoal)
@@ -32,10 +30,11 @@ O público alvo deste guia são pessoas dispostas a dar suporte 1 a 1 preferenci
 
 ## Repositórios adicionais
 
-### Exemplos de projetos
+**Exemplos de projetos**
 - https://github.com/fititnt/openstreetmap-exemplo-minimo-mapa-cidade
+- https://github.com/fititnt/openstreetmap-exemplo-basico-mapa-unidade-federativa
 
-### Exemplos de automação
+**Exemplos de automação**
 - https://github.com/fititnt/openstreetmap-github-actions
 
 ## Pauta sugerida
